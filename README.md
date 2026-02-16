@@ -29,4 +29,4 @@ I'm currently pursuing a diploma in Computer Engineering and love working with J
 ---
 
 ## 📫 Connect with Me
-[![Gmail](https://img.shields.io/badge/rohailshaikh723@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rohail@example.com)
+[![Gmail](https://img.shields.io/badge/rohailshaikh723@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rohailshaikh723@gmail.com)
